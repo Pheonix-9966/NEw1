@@ -1,0 +1,69 @@
+<html lang="en">
+  <head>
+    <meta name="Viewport" content="with=device-width, initial-scale = 1.0">
+
+    <title>project</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+
+    <div class="header">
+        
+    <a href="http://ccse.kennesaw.edu/it"><img src="https://i.groupme.com/1920x497.jpeg.87510ef7eadd47d18843eb68cf7a52c5" width="1000" height="150"></a>
+  </div>
+<div class="topnav">
+    <a href="https://milestone1-shanay.azurewebsites.net">PROJECTS</a>
+    <a href="https://milestone1-piercehobbs.azurewebsites.net/">STAFF</a>
+    <a href="https://tesfayeksu.azurewebsites.net/#">HOME</a>
+  
+</div>
+<div class="row"> 
+    <div class="column middle"> 
+        <h1>Staff Memebers</h1>
+        <h1>Lei Li</h1>
+        <a href="http://facultyweb.kennesaw.edu/lli13/index.php" target="_blank">Read more</a>
+        <img src="https://ccse.kennesaw.edu/it/images/Lei%20Li.jpg" alt="Lei Li photo" style="width:300px; height:300px;">
+  
+        <h2>Position:</h2>
+        <p>Interim Chair of IT, Professor &amp; MSIT Coordinator</p>
+        <h3>Phone:</h3>
+        <p>(470)- 578 - 3915</p>
+        <h3>Email:</h3>
+         <p>lli13@kennesaw.edu</p>
+        <h3>Location:</h3>
+        <p>J 393B</p>
+        <h3>Research Interests:</h3> 
+         <p>Social Media Data Analytics, Information Security, Web Information Management, IT Education</p>
+      
+        <h1> Hossain Shahriar </h1>  
+        <a href="http://facultyweb.kennesaw.edu/hshahria/index.php" target="_blank">Read more</a>
+        <img src="https://ccse.kennesaw.edu/it/images/Hossain%20Shahriar-hs.jpg" alt="Hossain Shahriar photo" style="width:300px; height:300px;">
+        <h3>Position:</h3>
+        <p>Associate Professor &amp; BSIT/BASIT Program Coordinator</p>
+        <h3>Phone:</h3>
+        <p>(470)- 578 - 3866</p>
+        <h3>Email:</h3>
+        <p>hshahria@kennesaw.edu</p>
+        <h3>Location:</h3>
+        <p>J 336</p>
+        <h3>Research Interests:</h3> 
+        <p>Mobile Application, Blockchain Application, Health Informatics and IT Education</p>
+    
+    <h1> William Forsyth </h1>
+        <a href="http://facultyweb.kennesaw.edu/wforsyt2/index.php" target="_blank">Read more</a>
+    
+        <img src="https://ccse.kennesaw.edu/it/images/William%20Forsyth.png" alt="William Forsyth photo" style="width:300px; height:300px;">
+        <h3>Position:</h3>
+        <p>Lecturer of Information Technology</p>
+         <h3>Phone:</h3>
+        <p>(470)- 578 - 2795</p>
+        <h3>Email:</h3>
+         <p>wforsyt2@kennesaw.edu</p>
+        <h3>Location:</h3>
+        <p>J 366</p>
+</div>
+</div>
+
+</body>
+</html>
+
